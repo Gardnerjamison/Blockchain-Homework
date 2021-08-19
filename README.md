@@ -38,7 +38,7 @@
 
 
 
-
+https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-virt-fin-pt-04-2021-u-c/-/raw/master/02-Homework/18-Blockchain/Instructions/Resources/Images/change-network.png
 ### To connect to MyCrypto, please add a new server from the bottom leftside, and input the information as follows:
     Node Name - Corginet
     Network - Custom
