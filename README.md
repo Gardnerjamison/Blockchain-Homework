@@ -38,7 +38,7 @@
 
 
 
-
+https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-virt-fin-pt-04-2021-u-c/-/raw/master/02-Homework/18-Blockchain/Instructions/Resources/Images/change-network.png
 ### To connect to MyCrypto, please add a new server from the bottom leftside, and input the information as follows:
     Node Name - Corginet
     Network - Custom
@@ -46,7 +46,7 @@
     Currency - ETH
     ChainID - 65327
     URL - http://126.0.0.1:8545
-    https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-virt-fin-pt-04-2021-u-c/-/raw/master/02-Homework/18-Blockchain/Instructions/Resources/Images/change-network.png
+    
 ### From there, navigate to the bottom buttons on the View & Send tab, and click 'Keystore File'
 
 
